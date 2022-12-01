@@ -1,6 +1,4 @@
 
-
-
 def validar(cadena):
     listBoo=[]
     lisName = cadena.split()
